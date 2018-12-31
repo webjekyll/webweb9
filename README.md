@@ -28,5 +28,13 @@
 
 <img src="pictures/gimp-xfer-to-jekyll-09.jpg"  width="800">
 
+## (10) = = =
+
+<img src="pictures/gimp-xfer-to-jekyll-10.jpg"  width="800">
+
+## (10) = = =
+
+<img src="pictures/gimp-xfer-to-jekyll-10.jpg"  width="800">
+
 ## = = = = = = [NEXT: ](https://rms46.github.io/webweb6/) = = = = = =
 

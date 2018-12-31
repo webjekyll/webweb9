@@ -14,5 +14,3 @@ group :jekyll_plugins do
   gem "wdm"
 end
 
-
-

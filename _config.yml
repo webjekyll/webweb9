@@ -1,1 +1,9 @@
+title: GitHub Pages<br>2 Jekyll
+description: > 
+   Let us run GitHub Page as static Windows 10 pages! 
+author: Cicak Bin Kadal
 theme: jekyll-theme-time-machine
+show_downloads: true
+share: true
+github: [metadata]
+
